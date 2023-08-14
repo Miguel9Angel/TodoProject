@@ -1,0 +1,47 @@
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 20rem;
+    width: 25rem;
+    border-radius: 2rem;
+    background-color: #041348;
+}
+
+.TodoForm-title {
+    font-size: 1.8rem;
+    text-align: center;
+    font-weight: 500;
+    padding: 15px;
+    color: #1afe49;
+}
+
+form textarea{
+    margin: 2rem 0;
+    height: 2rem;
+    width: 16rem;
+    border-radius: 1rem;
+    padding: 1rem;
+    font-size: 1rem;
+    font-weight: 700;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.75);
+    border: 2px solid #000000;
+}
+
+.TodoForm-button {
+    width: 6rem;
+    height: 2.5rem;
+    margin: 0 1rem;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+    background-color: #1afe49;
+    border: 2px solid #e2e3e7;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.75);
+}
+
+.TodoForm-button:hover {
+    color: antiquewhite;
+}
