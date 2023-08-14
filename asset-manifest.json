@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Miguel9Angel/TodoProject.git/static/css/main.65571788.css",
+    "main.js": "/Miguel9Angel/TodoProject.git/static/js/main.d6b9f6f0.js",
+    "index.html": "/Miguel9Angel/TodoProject.git/index.html",
+    "main.65571788.css.map": "/Miguel9Angel/TodoProject.git/static/css/main.65571788.css.map",
+    "main.d6b9f6f0.js.map": "/Miguel9Angel/TodoProject.git/static/js/main.d6b9f6f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65571788.css",
+    "static/js/main.d6b9f6f0.js"
+  ]
+}
